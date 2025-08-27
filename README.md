@@ -84,7 +84,7 @@ python3 json_bot.py
 Если бот оказался полезен — не забудьте поставить ⭐ в репозитории. Спасибо за внимание! 🙌
 
 **👤 Автор**
-Максим Олесов ([@nick](https://t.me/nick))
+Максим Олесов ([@ник](https://t.me/ник))
 
 <p align="left">
   <img src="https://img.shields.io/badge/Made%20by-Maxim%20Olesov-blue?style=for-the-badge&logo=github" alt="Made by Maxim Olesov" />
