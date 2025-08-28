@@ -90,7 +90,7 @@ python3 json_bot.py
 
 **👤 Автор:**
 
-Максим Олесов ([@MXwave](https://t.me/MXwave))
+Максим Олесов ([@Mxwave](https://t.me/Mxwave))
 
 <p align="left">
   <img src="https://img.shields.io/badge/Made%20by-Maxim%20Olesov-blue?style=for-the-badge&logo=github" alt="Made by Maxim Olesov" />
