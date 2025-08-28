@@ -30,6 +30,10 @@
 
 ## 🖼 Скриншоты
 
+**Информация о боте**
+
+![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/info.png)
+
 **Стартовое меню**
 
 ![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/start_menu.png)
@@ -40,7 +44,7 @@
 
 **Форматирование JSON**
 
-![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/beautifaer.png)
+![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/Formatting.png)
 
 ---
 
