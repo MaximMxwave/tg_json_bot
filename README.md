@@ -59,7 +59,7 @@
 
 1. **Скачайте проект или клонируйте репозиторий**  
 ``` markdown
-git clone https://github.com/MaximOlesov/tg_json_bot.git
+git clone https://github.com/MaximMxwave/tg_json_bot.git
 ```
 
 ``` markdown
