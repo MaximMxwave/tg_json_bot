@@ -86,7 +86,7 @@ python3 -m pip install pyTelegramBotAPI
 python3 bot.py
 ```
 
-### 🔗 Ссылка на Бота
+### 🔗 Ссылка на бота
 [t.me/JSON_ValidationBot](https://t.me/JSON_ValidationBot)
 
 
